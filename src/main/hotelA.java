@@ -7,8 +7,8 @@ public class hotelA {
    
     public static void main(String[] args) {
             // Membuat objek
-        hotelUtama hotel1 = new hotelUtama("pyramid" , "*5",10,1000000,"hotel A");
-        hotelUtama hotel2 = new hotelUtama("crystal", "*3", 1000, 500000, "hotel B");
+        hotelUtama hotel1 = new hotelUtama("pyramid1" , "*5",10,1000000,"hotel A");
+        hotelUtama hotel2 = new hotelUtama("crystal2", "*3", 1000, 500000, "hotel B");
 
         // Menampilkan detail
         hotel1.tampilkan();
